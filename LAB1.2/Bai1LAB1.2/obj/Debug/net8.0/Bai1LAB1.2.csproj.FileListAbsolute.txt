@@ -1,0 +1,15 @@
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.GeneratedMSBuildEditorConfig.editorconfig
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.AssemblyInfoInputs.cache
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.AssemblyInfo.cs
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.csproj.CoreCompileInputs.cache
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.sourcelink.json
+G:\LTBE\LAB1.2\Bai1LAB1.2\bin\Debug\net8.0\Bai1LAB1.2.exe
+G:\LTBE\LAB1.2\Bai1LAB1.2\bin\Debug\net8.0\Bai1LAB1.2.deps.json
+G:\LTBE\LAB1.2\Bai1LAB1.2\bin\Debug\net8.0\Bai1LAB1.2.runtimeconfig.json
+G:\LTBE\LAB1.2\Bai1LAB1.2\bin\Debug\net8.0\Bai1LAB1.2.dll
+G:\LTBE\LAB1.2\Bai1LAB1.2\bin\Debug\net8.0\Bai1LAB1.2.pdb
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.dll
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\refint\Bai1LAB1.2.dll
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.pdb
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\Bai1LAB1.2.genruntimeconfig.cache
+G:\LTBE\LAB1.2\Bai1LAB1.2\obj\Debug\net8.0\ref\Bai1LAB1.2.dll
