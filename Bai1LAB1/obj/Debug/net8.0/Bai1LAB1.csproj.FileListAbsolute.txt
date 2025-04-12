@@ -1,0 +1,14 @@
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\Bai1LAB1.GeneratedMSBuildEditorConfig.editorconfig
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\Bai1LAB1.AssemblyInfoInputs.cache
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\Bai1LAB1.AssemblyInfo.cs
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\Bai1LAB1.csproj.CoreCompileInputs.cache
+G:\LTBE\LAB1\Bai1LAB1\bin\Debug\net8.0\Bai1LAB1.exe
+G:\LTBE\LAB1\Bai1LAB1\bin\Debug\net8.0\Bai1LAB1.deps.json
+G:\LTBE\LAB1\Bai1LAB1\bin\Debug\net8.0\Bai1LAB1.runtimeconfig.json
+G:\LTBE\LAB1\Bai1LAB1\bin\Debug\net8.0\Bai1LAB1.dll
+G:\LTBE\LAB1\Bai1LAB1\bin\Debug\net8.0\Bai1LAB1.pdb
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\Bai1LAB1.dll
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\refint\Bai1LAB1.dll
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\Bai1LAB1.pdb
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\Bai1LAB1.genruntimeconfig.cache
+G:\LTBE\LAB1\Bai1LAB1\obj\Debug\net8.0\ref\Bai1LAB1.dll
